@@ -1,10 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
 
-/**
-	CUSTOM CSS
-**/
-
 
 .skill-icon{
 	max-width: 18%;
@@ -167,9 +163,17 @@ input, select, textarea {
 				font-size: 14pt;
 			}
 
-			h3{
+			.project-title{
 				text-align: center;
 				color: black !important;
+			}
+
+			.contact-text {
+				color:black
+			}
+
+			.icon {
+				color: black;
 			}
 
 		}
@@ -180,8 +184,16 @@ input, select, textarea {
 				font-size: 12pt;
 			}
 
-			h3{
+			.project-title{
 				text-align: center;
+				color: black;
+			}
+
+			.contact-text {
+				color:black
+			}
+
+			.icon {
 				color: black;
 			}
 
@@ -193,8 +205,16 @@ input, select, textarea {
 				font-size: 11pt;
 			}
 
-			h3{
+			.project-title{
 				text-align: center;
+				color: black;
+			}
+
+			.contact-text {
+				color:black
+			}
+
+			.icon {
 				color: black;
 			}
 
