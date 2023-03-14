@@ -2830,7 +2830,7 @@ input, select, textarea {
 			left: 0;
 			position: absolute;
 			top: 0;
-			width: 50vw;
+			width: 30vw;
 			z-index: -1;
 			color:white;
 		}
@@ -2838,7 +2838,7 @@ input, select, textarea {
 		#wrapper section {
 			display: grid;
 			grid-template-areas: "header content" "footer content";
-			grid-template-columns: 50vw 50vw;
+			grid-template-columns: 30vw 70vw;
 			grid-template-rows: 1fr;
 		}
 
@@ -2870,8 +2870,9 @@ input, select, textarea {
 
 			#wrapper section > .content {
 				grid-area: content;
-				max-width: 60rem;
+				max-width: 50rem;
 				position: relative;
+				margin: auto;
 			}
 
 			#wrapper section > footer {
@@ -3009,7 +3010,7 @@ input, select, textarea {
 
 		#wrapper > section > header:before {
 			height: calc(100% + 10rem);
-			left: calc(50vw - 5rem);
+			left: calc(30vw - 5rem);
 		}
 
 		#wrapper > section > header h1:before, #wrapper > section > header h2:before {
@@ -3050,7 +3051,7 @@ input, select, textarea {
 		}
 
 		#wrapper > section:last-of-type > header:after {
-			left: calc(50vw - 5rem - 0.25rem + 1px);
+			left: calc(30vw - 5rem - 0.25rem + 1px);
 		}
 
 		#wrapper .copyright {
@@ -3086,7 +3087,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-					right: -4rem;
+					right: 3rem;
 					width: 2rem;
 				}
 
