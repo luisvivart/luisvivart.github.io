@@ -2805,6 +2805,11 @@ input, select, textarea {
 				margin-left: 0;
 			}
 
+			h2 {
+				margin: auto;
+				font-size:2rem;
+			}
+
 		}
 
 		#wrapper > section:last-of-type > header:after {
