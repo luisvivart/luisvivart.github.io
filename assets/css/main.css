@@ -3108,7 +3108,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section.intro > header:before {
-					margin-left: calc(50vw - 8rem);
+					margin-left: calc(30vw - 8rem);
 				}
 
 		}
