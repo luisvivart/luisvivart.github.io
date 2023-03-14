@@ -3086,12 +3086,7 @@ input, select, textarea {
 					left: calc(50vw - 4rem);
 				}
 
-				#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-					right: 3rem;
-					width: 2rem;
-				}
-
-				#wrapper > section > header h1:after, #wrapper > section > header h2:after {
+				#wrapper > section > header h1:after {
 					right: -2rem;
 				}
 
