@@ -146,13 +146,13 @@ input, select, textarea {
 /* Typography */
 
 	html {
-		font-size: 18pt;
+		font-size: 1.3rem;
 	}
 
 		@media screen and (max-width: 1920px) {
 
 			html {
-				font-size: 13pt;
+				font-size: 1.3rem;
 			}
 
 		}
@@ -160,7 +160,7 @@ input, select, textarea {
 		@media screen and (max-width: 1400px) {
 
 			html {
-				font-size: 14pt;
+				font-size: 1.3rem;
 			}
 
 			.project-title{
@@ -2807,7 +2807,8 @@ input, select, textarea {
 
 			h2 {
 				margin: auto;
-				font-size:2rem;
+				font-size: 1.6rem;
+				text-align: center;
 			}
 
 		}
