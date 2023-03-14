@@ -3,7 +3,7 @@
 
 
 .skill-icon{
-	max-width: 18%;
+	max-width: 35%;
 }
 
 #me-img {
@@ -3031,7 +3031,7 @@ input, select, textarea {
 			}
 
 		#wrapper > section.intro > header > * {
-			width: 20rem;
+			width: 100%;
 		}
 
 		#wrapper > section.intro > header:before {
