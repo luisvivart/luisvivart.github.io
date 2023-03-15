@@ -2943,8 +2943,8 @@ input, select, textarea {
 							}
 
 							#wrapper > section.intro > header > * {
-								margin-left: 0;
-								margin-right: 0;
+								margin: auto;
+								text-align: center;
 								width: 100%;
 							}
 
