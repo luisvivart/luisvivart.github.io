@@ -283,7 +283,7 @@ input, select, textarea {
 
 	h1 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 5rem;
+		font-size: 4rem;
 		font-weight: 700;
 		letter-spacing: -0.05em;
 		line-height: 1.1;
@@ -2757,7 +2757,7 @@ input, select, textarea {
 		}
 
 			#wrapper section > header {
-				padding: 0 10rem 0 5rem;
+				padding: 0 10rem 0 1.5rem;
 				width: 35rem;
 			}
 
@@ -2766,7 +2766,7 @@ input, select, textarea {
 			}
 
 			#wrapper section > footer {
-				padding: 0 10rem;
+				padding: 0 7rem 0 0;
 			}
 
 		#wrapper > section > header:before {
@@ -2796,7 +2796,7 @@ input, select, textarea {
 		}
 
 		#wrapper > section.intro > header:before {
-			margin-left: calc(30vw - 10rem);
+			left: calc(30vw - 5rem);
 		}
 
 		@media screen and (max-width: 1400px) {
@@ -3036,7 +3036,7 @@ input, select, textarea {
 			}
 
 			.skill-icon {
-
+				width: 30%;
 			}
 
 		}
