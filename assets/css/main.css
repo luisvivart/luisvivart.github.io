@@ -146,7 +146,7 @@ input, select, textarea {
 /* Typography */
 
 	html {
-		font-size: 1.3rem;
+		font-size: 18px;
 	}
 
 	p {
@@ -164,7 +164,7 @@ input, select, textarea {
 		@media screen and (max-width: 1400px) {
 
 			html {
-				font-size: 1.3rem;
+				font-size: 18px;
 			}
 
 			.project-title{
