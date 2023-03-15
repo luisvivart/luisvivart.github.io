@@ -2804,6 +2804,7 @@ input, select, textarea {
 			#wrapper > section.intro > header > * {
 				margin: auto;
 				width: 100%;
+				text-align: center;
 			}
 
 			#wrapper > section.intro > header:before {
@@ -2991,7 +2992,7 @@ input, select, textarea {
 					}
 
 					#wrapper > section.intro > header {
-						padding: 8rem 4rem 5rem 4rem;
+						padding: 2.5rem 4rem 2.5rem 4rem;
 					}
 
 				#wrapper .copyright {
@@ -3027,7 +3028,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section.intro > header {
-					padding: 5.5rem 2rem 2.5rem 2rem;
+					padding: 2.5rem 2rem 2.5rem 2rem;
 				}
 
 			#wrapper .copyright {
