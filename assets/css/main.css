@@ -149,6 +149,10 @@ input, select, textarea {
 		font-size: 1.3rem;
 	}
 
+	p {
+		font-size: 1.3rem;
+	}
+
 		@media screen and (max-width: 1920px) {
 
 			html {
@@ -2805,6 +2809,10 @@ input, select, textarea {
 				margin-left: 0;
 			}
 
+			h1 {
+				text-align: center;
+			}
+
 			h2 {
 				margin: auto;
 				font-size: 1.6rem;
@@ -3023,6 +3031,10 @@ input, select, textarea {
 
 			#wrapper .copyright {
 				padding: 0 2rem 2rem 2rem;
+			}
+
+			.skill-icon {
+
 			}
 
 		}
