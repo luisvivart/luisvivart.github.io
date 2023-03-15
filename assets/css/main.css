@@ -2614,7 +2614,7 @@ input, select, textarea {
 			}
 
 				#wrapper section > header h2 {
-					margin: 0 0 5rem 0;
+					margin: auto;
 				}
 
 				#wrapper section > header h1 + p {
@@ -2802,6 +2802,7 @@ input, select, textarea {
 		@media screen and (max-width: 1400px) {
 
 			#wrapper > section.intro > header > * {
+				margin: auto;
 				width: 100%;
 			}
 
